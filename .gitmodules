@@ -1,0 +1,3 @@
+[submodule "capacitor-shared-store"]
+	path = capacitor-shared-store
+	url = git@github.com:anhthien-bic/capacitor-shared-store.git
